@@ -11,4 +11,6 @@ winget install Microsoft.PowerToys  ;
 winget install DelugeTeam.Deluge  ; 
 winget install Docker.DockerDesktop  ; 
 winget install Git.Git  ; 
-winget install TickTick.TickTick 
+winget install TickTick.TickTick ;
+winget install Ubuntu ;
+winget install 
