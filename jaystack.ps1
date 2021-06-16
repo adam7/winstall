@@ -16,4 +16,6 @@ winget install Google.Chrome  ;
 winget install Microsoft.Teams  ; 
 winget install SlackTechnologies.Slack  ; 
 winget install Postman.Postman  ; 
-winget install Insomnia.Insomnia 
+winget install Insomnia.Insomnia ;
+winget install Microsoft.PowerShell ;
+winget install JanDeDobbeleer.OhMyPosh ;
