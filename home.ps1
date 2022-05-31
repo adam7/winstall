@@ -6,6 +6,7 @@ winget install Plex.Plex -h --accept-package-agreements  ;
 winget install WhatsApp.WhatsApp  -h --accept-package-agreements  ; 
 winget install Valve.Steam -h --accept-package-agreements  ; 
 winget install TickTick.TickTick -h --accept-package-agreements ;
+winget install SumatraPDF -h --accept-package-agreements ;
 
 # Dev tools
 winget install Microsoft.VisualStudioCode  -h --accept-package-agreements  ; 
