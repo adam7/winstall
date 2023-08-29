@@ -1,1 +1,12 @@
-
+winget install Microsoft.VisualStudioCode -h --accept-package-agreements;
+winget install VideoLAN.VLC -h --accept-package-agreements;
+winget install Microsoft.PowerToys -h --accept-package-agreements;
+winget install Docker.DockerDesktop -h --accept-package-agreements;
+winget install Git.Git -h --accept-package-agreements;
+winget install OpenJS.NodeJSLTS -h --accept-package-agreements;
+winget install Volta.Volta -h --accept-package-agreements;
+winget install Google.Chrome -h --accept-package-agreements;
+winget install Microsoft.Teams -h --accept-package-agreements;
+winget install SlackTechnologies.Slack -h --accept-package-agreements;
+winget install JanDeDobbeleer.OhMyPosh -h --accept-package-agreements;
+winget install LogMeIn.LastPass -h --accept-package-agreements;
