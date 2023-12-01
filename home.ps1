@@ -1,8 +1,7 @@
 winget install Microsoft.PowerToys -h --accept-package-agreements  ; 
-winget install BraveSoftware.BraveBrowser -h --accept-package-agreements;
+winget install Brave.Brave -h --accept-package-agreements;
 winget install VideoLAN.VLC -h --accept-package-agreements  ; 
 winget install Plex.Plex -h --accept-package-agreements  ; 
-winget install WhatsApp.WhatsApp  -h --accept-package-agreements  ; 
 winget install Valve.Steam -h --accept-package-agreements  ; 
 winget install TickTick.TickTick -h --accept-package-agreements ;
 winget install NativeInstruments.NativeAccess -h --accept-package-agreements ;
