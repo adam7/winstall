@@ -6,6 +6,7 @@ winget install Valve.Steam -h --accept-package-agreements  ;
 winget install TickTick.TickTick -h --accept-package-agreements ;
 winget install NativeInstruments.NativeAccess -h --accept-package-agreements ;
 winget install Elgato.StreamDeck -h --accept-package-agreements ;
+winget install Dell.DisplayManager -h --accept-package-agreements ;
 
 # Dev tools
 winget install Microsoft.VisualStudioCode  -h --accept-package-agreements  ; 
